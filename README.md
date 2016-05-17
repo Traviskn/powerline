@@ -22,6 +22,7 @@ Clone this repo to your ~/.config directory
 
 ```shell
 git clone https://github.com/Traviskn/powerline.git ~/.config/powerline
+```
 
 Use the following shell script to start up powerline
 
